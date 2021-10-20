@@ -26,7 +26,7 @@ const Hero = () => {
           })}
         </ul>
       </div>
-      <button className={styles.btn}>Get In Touch</button>
+      <button className={styles.btn}>Get In Touchh</button>
     </div>
   );
 };
